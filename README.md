@@ -20,7 +20,7 @@ For unpaid volunteer work, I'm currently only up for the first 3 or 4 of those u
 * [pyc2e](https://github.com/pushfoo/pyc2e): A scripting and data transfer binding for the Win32 and Linux versions of the [Creatures Evolution Engine](https://creatures.wiki/Creatures_Evolution_Engine) built around the [ctypes Python module](https://docs.python.org/3/library/ctypes.html). It's unfinished because the community it was initially written for seemed to strongly favor C# and JavaScript.
 * [tinytextgamejs](https://github.com/pushfoo/tinytextgamejs): I wrote a text game mini-framework and rock paper scissors implementation to brush up on what recent JavaScript should look like.
 
-I will make additional projects public as I have time to polish them enough for public use.
+I will add additional projects as time allows.
 ##### Previously contributed to
 * [openc2e](https://github.com/ligfx/openc2e/): A re-implementation of the Creatures Evolution Engine that grew more features over time. I wrote some doc and filed bug reports for it.
 * [dstation-2020](https://github.com/Nazushvel/dstation-2020) A likely-obsolete launcher for Creatures Evolution Engine games.
