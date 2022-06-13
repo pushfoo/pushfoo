@@ -24,9 +24,12 @@ If I haven't already given you an email address to reach me at, you can try reac
 * [dstation-2020](https://github.com/Nazushvel/dstation-2020) A likely-obsolete launcher for [Creatures Evolution Engine](https://creatures.wiki/Creatures_Evolution_Engine) games.
 
 ##### My own projects
-* [Safecracker](https://github.com/pushfoo/Octo-Safecracker): A code breaking game written in Octo assembly for the XO-CHIP extended CHIP-8 instruction set.
+* [Safecracker](https://github.com/pushfoo/Octo-Safecracker): A completed code breaking game written in Octo assembly for the XO-CHIP extended CHIP-8 instruction set.
 * [EightDAD](https://github.com/pushfoo/eightdad): A CHIP-8 implementation I work on when I have time and interest.
-* [pyc2e](https://github.com/pushfoo/pyc2e): A scripting and data transfer binding for the Win32 and Linux versions of the [Creatures Evolution Engine](https://creatures.wiki/Creatures_Evolution_Engine). The community this was initially written for seemed to favor C# and JavaScript, so this has been a very low priority.
+* [pyc2e](https://github.com/pushfoo/pyc2e): A scripting and data transfer binding for the Win32 and Linux versions of the [Creatures Evolution Engine](https://creatures.wiki/Creatures_Evolution_Engine) built around the [ctypes Python module](https://docs.python.org/3/library/ctypes.html). It's unfinished because the community it was initially written for seemed to strongly favor C# and JavaScript.
+* [tinytextgamejs](https://github.com/pushfoo/tinytextgamejs): I wrote a text game mini-framework and rock paper scissors implementation to brush up on what recent JavaScript should look like.
+
+I will make additional projects public as I have time to polish them enough for public use.
 <!--
 **pushfoo/pushfoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
