@@ -1,15 +1,10 @@
 ### Hi! 👋
 
-I use this account to post things that I work on in my spare time.
+I use this account to post the things I work on in my spare time.
 
-#### Skills
+I have experience with a variety of subjects including: technical support, QA, documentation, test automation, back-end dev, DevOps, Docker, system administration, Java, web scraping, AWS, and Selenium.
 
-I have experience with a variety of subjects including: technical support, QA, documentation, test automation, back-end dev, DevOps, Docker, system administration, assembly, Java, web scraping, and Selenium.
-
-For unpaid volunteer work, I'm currently only up for the first 3 or 4 of those using Python. Due to time constraints, I do those for the projects I care about. You can read more about the projects below!
-
-#### How to reach me
-If I haven't already given you an email address to reach me at, you can try reaching me with this username on gmail. 
+For unpaid volunteer work, I'm currently only up for the first 3 or 4 of those using Python. Due to time constraints, I only do those for the projects I care about. You can read more about the projects below!
 
 ### Projects
 
@@ -26,7 +21,7 @@ If I haven't already given you an email address to reach me at, you can try reac
 * [tinytextgamejs](https://github.com/pushfoo/tinytextgamejs): I wrote a text game mini-framework and rock paper scissors implementation to brush up on what recent JavaScript should look like.
 
 I will make additional projects public as I have time to polish them enough for public use.
-#### Previously contributed to
+##### Previously contributed to
 * [openc2e](https://github.com/ligfx/openc2e/): A re-implementation of the Creatures Evolution Engine that grew more features over time. I wrote some doc and filed bug reports for it.
 * [dstation-2020](https://github.com/Nazushvel/dstation-2020) A likely-obsolete launcher for Creatures Evolution Engine games.
 
