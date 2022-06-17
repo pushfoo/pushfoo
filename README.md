@@ -22,7 +22,7 @@ For unpaid volunteer work, I'm currently only up for the first 3 or 4 of those u
 
 I will add additional projects as time allows.
 ##### Previously contributed to
-* [openc2e](https://github.com/ligfx/openc2e/): A re-implementation of the Creatures Evolution Engine that grew more features over time. I wrote some doc and filed bug reports for it.
+* [openc2e](https://github.com/openc2e/openc2e/): A re-implementation of the Creatures Evolution Engine that grew more features over time. I wrote some doc and filed bug reports for it.
 * [dstation-2020](https://github.com/Nazushvel/dstation-2020) A likely-obsolete launcher for Creatures Evolution Engine games.
 
 
