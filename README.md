@@ -1,42 +1,19 @@
-### Hi! 👋
+### Hello! 👋
 
-I use this account to post the things I work on in my spare time.
+#### This account & reaching me
 
-I have experience with a variety of subjects including: technical support, QA, documentation, test automation, back-end dev, DevOps, Docker, system administration, Java, web scraping, AWS, and Selenium.
+* 🛠️ I use this account to post and contribute to hobby projects.
+* 📧 If I  gave you a resumé, please reach me using the email address on it.
+* ❔ If I didn't give you a resume, please reach me using this name on gmail.
+* 🕹️ I also hang out on the [discord server](https://discord.gg/ZjGDqMp) for the [arcade](https://github.com/pythonarcade/arcade/) project, which I also contribute to.
 
-For unpaid volunteer work, I'm currently only up for the first 3 or 4 of those using Python. Due to time constraints, I only do those for the projects I care about. You can read more about the projects below!
+#### My Skills & Languages
 
-### Projects
+In addition to the languages below, I also have experience with: test automation, QA, Docker, Java, web scraping, AWS, and Selenium.
 
-##### Projects I contribute to
-* [Arcade](https://github.com/pythonarcade/): A beginner-friendly Python games library that [comes with a reasonable amount of batteries](https://docs.python.org/3/tutorial/stdlib.html#batteries-included). I write doc, make bug fixes, review code, and occasionally contribute new features.
-* [Pyglet](https://github.com/pyglet/pyglet/): An OpenGL binding. I mostly report bugs, fixing some of them.
-* [The Pop!\_OS Community](https://github.com/pop-os/): They're doing exciting work in the desktop Linux space! I mostly do volunteer support in their Discord server and occasionally report issues on their github projects.
-* [Octo](https://github.com/JohnEarnest/Octo) and [c-octo](https://github.com/JohnEarnest/c-octo): My favorite CHIP-8 tools. I used them during [Octojam 8](https://itch.io/jam/octojam-8) to write [Safecracker](https://github.com/pushfoo/Octo-Safecracker).
+Roff is misreported in the stats below. It's actually [Octo](https://github.com/JohnEarnest/Octo), but [GitHub doesn't support it correctly yet!](https://github.com/JohnEarnest/Octo/issues/103)
 
-##### My own projects
-* [Safecracker](https://github.com/pushfoo/Octo-Safecracker): A completed code breaking game written in Octo assembly for the XO-CHIP instruction set.
-* [EightDAD](https://github.com/pushfoo/eightdad): A CHIP-8 implementation I work on when I have time and interest.
-* [pyc2e](https://github.com/pushfoo/pyc2e): A scripting and data transfer binding for the Win32 and Linux versions of the [Creatures Evolution Engine](https://creatures.wiki/Creatures_Evolution_Engine) built around the [ctypes Python module](https://docs.python.org/3/library/ctypes.html). It's unfinished because the community it was initially written for seemed to strongly favor C# and JavaScript.
-* [tinytextgamejs](https://github.com/pushfoo/tinytextgamejs): I wrote a text game mini-framework and rock paper scissors implementation to brush up on what recent JavaScript should look like.
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pushfoo&theme=nord)
 
-I will add additional projects as time allows.
-##### Previously contributed to
-* [openc2e](https://github.com/openc2e/openc2e/): A re-implementation of the Creatures Evolution Engine that grew more features over time. I wrote some doc and filed bug reports for it.
-* [dstation-2020](https://github.com/Nazushvel/dstation-2020) A likely-obsolete launcher for Creatures Evolution Engine games.
-
-
-<!--
-**pushfoo/pushfoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check my pins below!
+<!--Hello to everyone from a recent event!-->
