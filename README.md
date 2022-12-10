@@ -1,11 +1,8 @@
-### Hello! 👋
+### tl;dr
 
-#### This account & reaching me
-
-* 🛠️ I use this account to post and contribute to hobby projects.
-* 📧 If I  gave you a resumé, please reach me using the email address on it.
-* ❔ If I didn't give you a resume, please reach me using this name on gmail.
-* 🕹️ I also hang out on the [discord server](https://discord.gg/ZjGDqMp) for the [arcade](https://github.com/pythonarcade/arcade/) project, which I also contribute to.
+🛠️ I use this account to post and contribute to hobby projects.</br>
+📧 To email me, please use either the email address I gave you, or this name on gmail.<br/>
+🕹️ If you want to reach me on Discord, I hang out on [the discord server](https://discord.gg/ZjGDqMp) for [arcade](https://github.com/pythonarcade/arcade/).
 
 #### My Skills & Languages
 
