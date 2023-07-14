@@ -9,12 +9,12 @@
 
 #### My Skills & Languages
 
-| Topic                   | My Skills Include...                        |
-|-------------------------|---------------------------------------------|
-| Technical Support       | Empathizing with users and documenting bugs |
-| QA / Test Automation    | JUnit 4, TestNG, Selenium, pytest           |
-| Containers & Deployment | Docker, AWS, GCP, Virtual Machines          |
-| Web Technologies        | HTML, CSS, JSON, and JavaScript             |
+| Topic                   | My Skills Include...                        | Skill Level    |
+|-------------------------|---------------------------------------------|----------------|
+| Technical Support       | Empathizing with users and documenting bugs | 🏋️ Powerful    |
+| QA / Test Automation    | Writing adapters, TestNG, Selenium, pytest  | 💪 Experienced |
+| Containers & Deployment | Docker, AWS, GCP, Virtual Machines          | 👍 Productive  |
+| Web Technologies        | HTML, CSS, JSON, and JavaScript             | 👍 Productive  |
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pushfoo&theme=nord)
